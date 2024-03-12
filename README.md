@@ -1,3 +1,5 @@
+![logo](https://github.com/uksamarth/uksamarth/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hello👋 This is U K Samarth</h1>
 <h3 align="center">A Electronics and Communication Engineering Student at KLE Technological University, Hubli</h3>
 
