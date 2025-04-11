@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development, Computer Vision, Multimodal Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://uksamarth.github.io/Portfolio/](https://uksamarth.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [photo-resume-hub.lovable.app](photo-resume-hub.lovable.app)
 
 - 📫 How to reach me **uksamarth1809@gmail.com**
 
